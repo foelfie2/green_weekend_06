@@ -52,3 +52,21 @@ HTML.CSS,js기초 주말반
 >h1~h5
 
 >h1 가장 큰 제목
+
+### HTML 기본 구조
+```
+<!DOCTYPE html> -1
+<html> -2
+<head> -3
+    <meta charset="UTF-8"> -4
+    <title>TEST PAGE</title> -5
+</head>
+<body> -6
+
+    <p>This is a test page.</p>
+
+</body>
+</html>
+```
+
+1.
