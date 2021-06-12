@@ -24,3 +24,10 @@ HTML.CSS,js기초 주말반
 >예외) 시작태그만 존재하는 경우: 빈 요소(Empty Element)
 
 >포함관계(Nested)
+```
+<body>
+  <div>
+    test
+  </div>
+</body>
+```
