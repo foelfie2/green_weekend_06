@@ -113,8 +113,13 @@ HTML.CSS,js기초 주말반
 > 설명목록(description List) - dl
 ```
 <dl>
-  <dt>html</dt> (dt: description)
-  <dd>표준 마크업 언어</dd>
+  <dt>html</dt> (dt: description title)
+  <dd>표준 마크업 언어</dd> (description data)
 </dl>
 
 ```
+### HTML Hyper link
+>하이퍼링크 a(anchor)
+
+>attribute(속성): href(hypertext reference): 연결되는 웹문서의 URL
+<a href="http://www.naver.com">naver</a>
