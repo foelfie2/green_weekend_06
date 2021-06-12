@@ -110,10 +110,10 @@ HTML.CSS,js기초 주말반
   <li>css</li>
  </ol> 
  ```
-> 설명목록(desctpition List) - dl
+> 설명목록(description List) - dl
 ```
 <dl>
-  <dt>html</dt> (dt: desctpition)
+  <dt>html</dt> (dt: description)
   <dd>표준 마크업 언어</dd>
 </dl>
 
