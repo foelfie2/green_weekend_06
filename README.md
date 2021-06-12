@@ -19,8 +19,11 @@ HTML.CSS,js기초 주말반
 >
 >소문자 사용
 >
->시자태그와 동료태그 세트로 구성됨.
->
+>시작태그와 종료태그 세트로 구성됨.
+```
+<tagname><contents></tagname>
+```
+
 >예외) 시작태그만 존재하는 경우: 빈 요소(Empty Element)
 
 >포함관계(Nested)
