@@ -110,6 +110,7 @@ HTML.CSS,js기초 주말반
   <li>css</li>
  </ol> 
  ```
+ >포함관계로 되어있는 목록
 > 설명목록(description List) - dl
 ```
 <dl>
