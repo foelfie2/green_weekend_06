@@ -91,6 +91,30 @@ HTML.CSS,js기초 주말반
 <br> - Break
 ```
 
+### 목록태그
 
-<!DOCTYPE html>
-<html><></html>
+> 순서없는 목록 ul(Unordered List)
+
+> 순서있는 목록 ol(Ordered List)
+
+> 목록 항목List(list item)
+
+```
+<ul>
+  <li>html</li>
+  <li>css</li>
+ </ul> 
+ 
+ <ol>
+  <li>html</li>
+  <li>css</li>
+ </ol> 
+ ```
+> 설명목록(desctpition List) - dl
+```
+<dl>
+  <dt>html</dt> (dt: desctpition)
+  <dd>표준 마크업 언어</dd>
+</dl>
+
+```
