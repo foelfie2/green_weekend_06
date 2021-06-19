@@ -172,4 +172,6 @@ https://www.tablesgenerator.com/
 ##Youtube
 >>비디오 컨텐프 제공시 트래픽 과부하를 해결하기 위해서 유튜브서비스를 사용하기도 함
 
+vimeo.com (유료지만 고화질)
+
 
