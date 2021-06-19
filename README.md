@@ -145,6 +145,15 @@ https://www.tablesgenerator.com/
 
 >행:tr(table row)
 
+### Image element
+> Tag:img
+
+> Attribute: src(image 위취,파일명),alt(대체텍스트)
+
+`:backtick
+```
+<img src="image.jpg" alt="대체텍스트">
+```
 
 
 
