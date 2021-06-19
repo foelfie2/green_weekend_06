@@ -126,14 +126,24 @@ HTML.CSS,js기초 주말반
 <a href="http://www.naver.com">naver</a>
 ```
 >북마크 기능
-
 >외부 페이지 연결이 아닌 같은 페이지에서 특정위치로 이동할 수 있게 해주는 기능
-
 >도착지점에 id attribute를 사용하여 이름을 지정
 ```
 <a href="#t1"></a>
 ```
 <h2 id="t1">제목</h2>
+```
+
+###Table Element
+https://www.tablesgenerator.com/
+
+>기본사용태그: table, thead,tbody,tr,th,td
+
+>열 제목: thead(table head), th(table heading
+
+>표 내용:tbody(table body), td(table data)
+
+>행:tr(table row)
 
 
 
