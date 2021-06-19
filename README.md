@@ -169,7 +169,7 @@ https://www.tablesgenerator.com/
 
 >loop:반복재생
 
-##Youtube
+##Youtube (유튜브 파라미터)
 >비디오 컨텐프 제공시 트래픽 과부하를 해결하기 위해서 유튜브서비스를 사용하기도 함
 
 >매개변수
@@ -190,5 +190,12 @@ https://www.tablesgenerator.com/
 
 
 vimeo.com (유료지만 고화질)
+
+
+
+###개발자 도구보기
+
+F12 클릭->상단화살표->파란색영역으로 마우스 이동 소스 확인
+
 
 
