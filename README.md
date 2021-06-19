@@ -155,6 +155,21 @@ https://www.tablesgenerator.com/
 <img src="image.jpg" alt="대체텍스트">
 ```
 
+###video Element
+>비디오 및 오디오 콘탠츠는 용량이 크기떄문에 서버에 저장을 해서 제공하면 많은 트래픽이 발생한다.
 
+>트래픽 과부하를 해결하기 위해서 유튜브서비스를 사용하기도 함
+>attribute
+
+>controls:컨트롤 버튼 표시
+
+>autoplay:자동재생(*muted와 같이 사용해도 됨)
+
+>muted:음소거
+
+>loop:반복재생
+
+##Youtube
+>>비디오 컨텐프 제공시 트래픽 과부하를 해결하기 위해서 유튜브서비스를 사용하기도 함
 
 
