@@ -220,7 +220,11 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 
 > block element는 줄바꿈 되어 표시 - block element영역의 가로 너비가 부모요소에 채워지기 떄문임.
 
+> block element에는 위, 아래여백을 적용할 수 있음
+
 > inline element는 같은 줄에 나란히 표시-inline element영역의 가로 너비가 콘텐츠 크기만큼만 정해짐.
+
+> inline element에는 위, 아래여백을 적용할 수 없음
 
 
 
