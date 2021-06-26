@@ -219,6 +219,7 @@ https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
 > block element, Inline Element 구분은 이들 영역의 화면 표시 방식에 따른 구분
 
 > block element는 줄바꿈 되어 표시 - block element영역의 가로 너비가 부모요소에 채워지기 떄문임.
+>(**포함하는 요소:부모요소, 포함되는 요소:자식요소)
 
 > block element에는 위, 아래여백을 적용할 수 있음
 
