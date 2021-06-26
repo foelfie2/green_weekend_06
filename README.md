@@ -204,4 +204,11 @@ F12 클릭->상단화살표->파란색영역으로 마우스 이동 소스 확�
 
 ###container
 
+웹사이트 템플릿 디자인
+https://freebiesbug.com/psd-freebies/minimo-minimal-blog-template/
+
+Container Element(단순 영역 구분 요소)
+div(division)
+
+span
 
